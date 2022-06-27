@@ -1,0 +1,11 @@
+.album-thumbnail {
+    & > img {
+        border-radius: 0.5rem;
+        width: 190px;
+    }
+}
+
+.album-name {
+    font-weight: bold;
+    color: rgb(26, 102, 218);
+}
